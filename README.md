@@ -15,19 +15,21 @@ Project used to set sublime in Ubuntu as a Python IDE
  - GitGutter
  - isort
  - Markdown Preview
- - Markdown Editing
+ - MarkdownEditing
  - Package Control
  - Pretty JSON
- - Project Manager
+ - ProjectManager
  - requirementstxt
- - SideBar Enhancements
+ - SideBarEnhancements
  - SublimeCodeIntel
  - SublimeLinter
  - SublimeLinter-flake8
  - SublimeLinter-json
+ - SublimeLinter-pycodestyl
  - SublimeLinter-pydocstyle
  - SublimeLinter-pyflakes
  - Terminal
- - Theme-Soda
+ - Theme - Soda
  - TodoReview
  - TrailingSpaces
+ 
