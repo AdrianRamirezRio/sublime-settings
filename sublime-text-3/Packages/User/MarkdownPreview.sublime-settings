@@ -1,0 +1,9 @@
+{
+    "enabled_extensions": "github",
+    "enabled_parsers": ["github"],
+    "github_inject_header_ids": true,
+    "enable_autoreload": true,
+    "gutter": true,
+    "line_numbers": true,
+    "github_oauth_token": "34e778eea72d3fa42ec992197e901e2f5ebc14b2"
+}

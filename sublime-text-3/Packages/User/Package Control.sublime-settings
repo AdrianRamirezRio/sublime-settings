@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Advanced CSV",
+		"All Autocomplete",
+		"Anaconda",
+		"AutoDocstring",
+		"AutoPEP8",
+		"CodeTimeTracker",
+		"Dockerfile Syntax Highlighting",
+		"GitGutter",
+		"isort",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"ProjectManager",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-json",
+		"SublimeLinter-pycodestyle",
+		"SublimeLinter-pydocstyle",
+		"SublimeLinter-pyflakes",
+		"Terminal",
+		"Theme - Soda",
+		"TodoReview",
+		"TrailingSpaces"
+	]
+}

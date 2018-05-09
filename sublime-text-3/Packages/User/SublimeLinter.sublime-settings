@@ -1,0 +1,66 @@
+{
+  "debug": false,
+  "delay": 0.25,
+  "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+  "lint_mode": "background",
+  "linters": {
+    "flake8": {
+      "@disable": false,
+      "args": [],
+      "builtins": "",
+      "excludes": [],
+      "executable": "",
+      "ignore": "",
+      "jobs": "",
+      "max-complexity": 10,
+      "max-line-length": 79,
+      "select": "",
+      "show-code": false
+    },
+    "json": {
+      "@disable": false,
+      "args": [],
+      "excludes": [],
+      "strict": true
+    },
+    "pycodestyle": {
+      "@disable": false,
+      "args": [],
+      "excludes": [],
+      "max-line-length": null,
+      "select": ""
+    },
+    "pydocstyle": {
+      "@disable": false,
+      "add-ignore": "D107",
+      "args": [],
+      "excludes": [],
+      "ignore": "",
+    },
+    "pyflakes": {
+      "@disable": false,
+      "args": [],
+      "excludes": []
+    }
+  },
+  "no_column_highlights_line": true,
+  "paths": {
+    "linux": [
+      "/home/adrian.ramirez/miniconda3/bin",
+      "/usr/local/bin/"
+    ],
+    "osx": [],
+    "windows": []
+  },
+  "show_marks_in_minimap": true,
+  "syntax_map": {
+    "html (django)": "html",
+    "html (rails)": "html",
+    "html 5": "html",
+    "javascript (babel)": "javascript",
+    "magicpython": "python",
+    "php": "html",
+    "python django": "python",
+    "pythonimproved": "python"
+  },
+}
