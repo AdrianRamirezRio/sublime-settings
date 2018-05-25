@@ -4,19 +4,6 @@
   "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
   "lint_mode": "background",
   "linters": {
-    "flake8": {
-      "@disable": false,
-      "args": [],
-      "builtins": "",
-      "excludes": [],
-      "executable": "",
-      "ignore": "",
-      "jobs": "",
-      "max-complexity": 10,
-      "max-line-length": 79,
-      "select": "",
-      "show-code": false
-    },
     "json": {
       "@disable": false,
       "args": [],
@@ -46,7 +33,7 @@
   "no_column_highlights_line": true,
   "paths": {
     "linux": [
-      "/home/adrian.ramirez/miniconda3/bin",
+      "~/miniconda3/bin",
       "/usr/local/bin/"
     ],
     "osx": [],

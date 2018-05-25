@@ -14,7 +14,7 @@
 
     // autocompletion
     "auto_complete_triggers": [
-        {"selector": "source.python - string - comment - constant.numeric", 
+        {"selector": "source.python - string - comment - constant.numeric",
          "characters": "."},
     ], //trigger with dot
     "complete_all_parameters": true,

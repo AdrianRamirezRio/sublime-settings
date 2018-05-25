@@ -3,4 +3,5 @@
 	"disable_anaconda_completion": true,
 	"enable_signatures_tooltip": true,
     "merge_signatures_and_doc": true,
+    "python_interpreter": "~/miniconda3/bin/python",
 }

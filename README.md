@@ -23,7 +23,6 @@ Project used to set sublime in Ubuntu as a Python IDE
  - SideBarEnhancements
  - SublimeCodeIntel
  - SublimeLinter
- - SublimeLinter-flake8
  - SublimeLinter-json
  - SublimeLinter-pycodestyl
  - SublimeLinter-pydocstyle
